@@ -1,0 +1,10 @@
+#signIn {
+    border: 4px;
+    border-style: solid;
+    border-radius: 8%;
+    text-align: center;
+    margin: auto;
+    width: 15rem;
+    background-color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;;
+}

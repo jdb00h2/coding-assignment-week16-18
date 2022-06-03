@@ -1,0 +1,13 @@
+#link {
+    color: black;
+    font-size: larger;
+}
+
+#title {
+    border: 3px;
+    border-style: solid;
+}
+
+#card {
+    text-align: center;
+}
